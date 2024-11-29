@@ -1,5 +1,5 @@
 # Music Information Retrieval
-A collection of the projects I made in collaboration with Anna Fusari &nbsp;([@AnnaFusari](https://github.com/AnnaFusari)) about music information retrieval with their relative reports.
+A collection of the projects I made in collaboration with Anna Fusari&nbsp;([@AnnaFusari](https://github.com/AnnaFusari)) about music information retrieval with their relative reports.
 
 ### Song Classification
 In the song classification file an algorithm able to classify music according to its genre is created. The main idea is to analyse the rhythmic features of a certain piece with a machine learning algorithm that has been trained with the songs contained in the dataset called GTZAN, unanimously considered as the database-cornerstone of automatic genre classification.
